@@ -1,4 +1,3 @@
 - MSU 
-- SYBCA - A
+- SYBCA - A (SEM 3 -> 2025)
 - ROLL NO. 01
-- AADARSH RAJ
